@@ -1,10 +1,10 @@
 {
-    "version": "1.2.0",
-    "download_url": "https://github.com/tanjil123Azz/sdm/releases/download/v1.2.0/SDM_Setup.exe",
+    "version": "1.2.1",
+    "download_url": "https://github.com/tanjil123Azz/sdm/releases/download/v1.2.1/SDM_Setup.exe",
     "changelog": [
+        "Fixed download path key error bug",
         "Added About Us section",
-        "New sidebar button for About Us",
-        "Updated version to 1.2.0"
+        "New sidebar button for About Us"
     ],
     "min_required_version": "1.0.0",
     "force_update": false
